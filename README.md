@@ -1,3 +1,3 @@
 # someswar
 college webside
-Author-someswa-petro
+Author-someswa-patro
